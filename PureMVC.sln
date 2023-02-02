@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PureMVC", "PureMVC\PureMVC.csproj", "{CCC8F24C-C818-460B-8349-027D2616A1E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureMVCTests", "PureMVCTests\PureMVCTests.csproj", "{4B8FD998-87A7-42F8-924B-E3DA437F9EF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureMVCTests", ".PureMVCTests\PureMVCTests.csproj", "{4B8FD998-87A7-42F8-924B-E3DA437F9EF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
